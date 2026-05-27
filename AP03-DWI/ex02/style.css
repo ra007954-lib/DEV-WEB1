@@ -1,0 +1,7 @@
+.Anime {
+    width: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(58, 60, 199);
+    border-radius: 30px;
+    padding: 25px;
+}
