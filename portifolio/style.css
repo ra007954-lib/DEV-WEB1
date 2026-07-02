@@ -1,0 +1,148 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f5f5f5;
+    color:#222;
+}
+
+main{
+    width:90%;
+    max-width:1200px;
+    margin:40px auto;
+
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:60px;
+}
+
+/* PERFIL */
+
+#perfil{
+    display:flex;
+    align-items:flex-start;
+    gap:30px;
+}
+
+#perfil img{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    object-fit:cover;
+    box-shadow:0 0 8px rgba(0,0,0,.15);
+}
+
+.info h1{
+    font-size:45px;
+    color:#000;
+}
+
+.info h2{
+    color:#c00000;
+    margin:15px 0 20px;
+    font-size:22px;
+}
+
+.info ul{
+    list-style:none;
+}
+
+.info li{
+    margin-bottom:8px;
+}
+
+/* SOBRE */
+
+#sobre{
+    display:flex;
+    align-items:center;
+}
+
+#sobre p{
+    font-size:18px;
+    line-height:1.8;
+    text-align:justify;
+}
+
+/* TITULOS */
+
+#habilidades h2,
+#projetos h2,
+#contato h2{
+    color:#c00000;
+    margin-bottom:20px;
+    border-bottom:2px solid #c00000;
+    display:inline-block;
+    padding-bottom:5px;
+}
+
+/* HABILIDADES */
+
+#habilidades ul{
+    list-style:none;
+}
+
+#habilidades li{
+    padding:12px 0;
+    border-bottom:1px solid #ddd;
+}
+
+/* PROJETOS */
+
+article{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.08);
+}
+
+/* CONTATO */
+
+#contato input{
+    width:100%;
+    padding:12px;
+    margin:10px 0 20px;
+    border:1px solid #ccc;
+    border-radius:5px;
+}
+
+#contato button{
+    width:100%;
+    padding:13px;
+    background:#c00000;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+#contato button:hover{
+    background:#920000;
+}
+
+#mensagem{
+    margin-top:20px;
+    color:green;
+}
+
+/* RESPONSIVO */
+
+@media(max-width:900px){
+
+main{
+grid-template-columns:1fr;
+}
+
+#perfil{
+flex-direction:column;
+align-items:center;
+text-align:center;
+}
+
+}
