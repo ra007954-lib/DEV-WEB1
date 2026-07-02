@@ -1,0 +1,253 @@
+<!-- SALVAR COMO: index.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Eco Shopping - Home</title>
+</head>
+<body>
+    <header>
+        <h1>Eco Shopping</h1>
+    </header>
+
+    <nav>
+        <p><a href="index.html">Home</a></p>
+        <p><a href="login.html">Login / Cadastro</a></p>
+        <p><a href="contato.html">Contato</a></p>
+        <p><a href="sejamembro.html">Seja Membro</a></p>
+    </nav>
+
+    <aside>
+        <p>Frete grátis para todo brasil</p>
+        <p>Entrega full acima de 99,00</p>
+    </aside>
+
+    <main>
+        <p>Confira nossos produtos sustentáveis:</p>
+        
+        <h2>Vestuário</h2>
+        <iframe src="vestuario.html"></iframe>
+
+        <h2>Brinquedos e Jogos</h2>
+        <iframe src="brinquedos.html"></iframe>
+
+        <h2>Casa e Cozinha</h2>
+        <iframe src="casa.html"></iframe>
+
+        <h2>Cuidados Pessoais</h2>
+        <iframe src="cuidados.html"></iframe>
+
+        <p>Lojas Parceiras:</p>
+        <p><a href="https://insectashoes.com">Insecta Shoes</a></p>
+        <p><a href="https://www.positiv.a/">Positiv.a</a></p>
+    </main>
+
+    <footer>
+        <p>direitos reservados FOUR Sluções WEB</p>
+    </footer>
+</body>
+</html>
+<!-- FIM DO ARQUIVO index.html -->
+
+
+<!-- SALVAR COMO: login.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Eco Shopping - Login</title>
+</head>
+<body>
+    <h1>Cadastro de Usuário</h1>
+    <p>Nome: ___________________________</p>
+    <p>Email: ___________________________</p>
+    <p>Telefone: ___________________________</p>
+    <p><iframe src="botao_enviar.html"></iframe></p>
+</body>
+</html>
+<!-- FIM DO ARQUIVO login.html -->
+
+
+<!-- SALVAR COMO: contato.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Eco Shopping - Contato</title>
+</head>
+<body>
+    <h1>Contato</h1>
+    <p>Email: contato@ecoshopping.com.br</p>
+    <p>Telefone: (11) 9999-8888</p>
+    <p>Endereço: Rua da Natureza, 123 - Ecoville</p>
+</body>
+</html>
+<!-- FIM DO ARQUIVO contato.html -->
+
+
+<!-- SALVAR COMO: sejamembro.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Eco Shopping - Seja Membro</title>
+</head>
+<body>
+    <h1>Cadastro de Fornecedor</h1>
+    <p>Nome da Empresa: ___________________________</p>
+    <p>Email Comercial: ___________________________</p>
+    <p>Telefone: ___________________________</p>
+    <p>O que você vende: ___________________________</p>
+    <p><iframe src="botao_enviar.html"></iframe></p>
+</body>
+</html>
+<!-- FIM DO ARQUIVO sejamembro.html -->
+
+
+<!-- SALVAR COMO: vestuario.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Eco Shopping - Vestuário</title>
+</head>
+<body>
+    <p>Camiseta Algodão Orgânico</p>
+    <ul>
+        <li>100% natural</li>
+        <li>Cor branca</li>
+    </ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Bermuda de Cânhamo</p>
+    <ul><li>Tecido eco</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Meia Reciclada</p>
+    <ul><li>Feita de retalhos</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Boné Eco</p>
+    <ul><li>Aba de cortiça</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+</body>
+</html>
+<!-- FIM DO ARQUIVO vestuario.html -->
+
+
+<!-- SALVAR COMO: brinquedos.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Eco Shopping - Brinquedos</title>
+</head>
+<body>
+    <p>Carrinho de Madeira</p>
+    <ul><li>Madeira reflorestada</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Boneca de Pano</p>
+    <ul><li>Algodão cru</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Jogo de Papelão</p>
+    <ul><li>Reciclável</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Peteca de Palha</p>
+    <ul><li>Artesanal</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+</body>
+</html>
+<!-- FIM DO ARQUIVO brinquedos.html -->
+
+
+<!-- SALVAR COMO: casa.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Eco Shopping - Casa</title>
+</head>
+<body>
+    <p>Talheres de Bambu</p>
+    <ul><li>Zero plástico</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Pano de Cera</p>
+    <ul><li>Lavável</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Vassoura PET</p>
+    <ul><li>Reciclada</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Copo de Silicone</p>
+    <ul><li>Reutilizável</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+</body>
+</html>
+<!-- FIM DO ARQUIVO casa.html -->
+
+
+<!-- SALVAR COMO: cuidados.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Eco Shopping - Cuidados</title>
+</head>
+<body>
+    <p>Shampoo em Barra</p>
+    <ul><li>Natural</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Escova de Bambu</p>
+    <ul><li>Biodegradável</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Desodorante Natural</p>
+    <ul><li>Sem química</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+    <p>Sabonete Vegetal</p>
+    <ul><li>Artesanal</li></ul>
+    <iframe src="botao_compra.html"></iframe>
+</body>
+</html>
+<!-- FIM DO ARQUIVO cuidados.html -->
+
+
+<!-- SALVAR COMO: botao_compra.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Botão Comprar</title>
+</head>
+<body>
+    <p><a href="cadastro_compras.html">COMPRAR</a></p>
+</body>
+</html>
+<!-- FIM DO ARQUIVO botao_compra.html -->
+
+
+<!-- SALVAR COMO: botao_enviar.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Botão Enviar</title>
+</head>
+<body>
+    <p>CLIQUE PARA ENVIAR</p>
+</body>
+</html>
+<!-- FIM DO ARQUIVO botao_enviar.html -->
+
+
+<!-- SALVAR COMO: cadastro_compras.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Finalizar Compra</title>
+</head>
+<body>
+    <h1>Finalizar Compra</h1>
+    <p>Nome: ___________________________</p>
+    <p>Endereço: ___________________________</p>
+    <p>Pagamento: ___________________________</p>
+    <iframe src="botao_enviar.html"></iframe>
+</body>
+</html>
+<!-- FIM DO ARQUIVO cadastro_compras.html -->

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta caharset="UTF-8">
+		<link rel="stylesheet" href="style.css">
+		<title>ECO SHOPPING</title>
+	</head>
+
+	<body>
+
+		<header>
+			<h1>Eco Shopping</h1>
+			<div class="search">
+				<input type="text"
+			placeholder="Pesquisar produtos ecológicos...">
+			    <button>🔍</button> 
+			</div>	
+		</header>
+
+		<nav>
+			<p><a href ="index.html">Início</a></p>
+			<p><a href ="login.html">Login</a></p>
+			<p><a href="contato.html">Fale Conosco</a></p>
+		</nav>
+
+		<aside>
+			<img src="banner.png" >
+		</aside>
+
+		<main>
+			
+			<h1>Confira nosso catálogo de Produtos Sustentáveis</h1>
+
+			<hr>
+
+			<div class="vestuario">
+				<h2>Vestuário</h2>
+				<br>
+				<a href="vestuario.html"> <img src="camisa.jpeg" alt="imagem de um camisa"></a>
+			</div>
+			
+			<div class=" casa e cozinha">
+				<h2>Casa</h2>
+				<br>
+				<a href="casa.html"> <img src="kitcozinha.jpeg" alt="imgaem de um kit de talhares para preparo de alimentos"></a>
+			</div>
+			
+			<div class = "cuidados pessoais">
+				<h2>Cosméticos</h2>
+				<br>
+				<a href="cosmeticos.html"> <img src="protetorsolar.jpeg" alt="imgaem de um protetor solar"> </a>
+			</div>
+
+
+			</div>
+			
+		</main>
+
+			<hr>
+
+		<article>
+			<h2>Nossos Valores</h2>
+				<p>Valorizamos escolhas conscientes que respeitam a natureza e priorizamos produtos sustentáveis com processos responsáveis.</p>
+				<p>Acreditamos na transparência em cada etapa do consumo promovendo um estilo de vida que reduz impactos e preserva o futuro.</p>
+				<p>A "Eco Shopping" tem como principal finalidade oferecer produtos com fontes sustentáveis para pessoas de todas as idades.</p>
+				<img src="personagem.png">
+		</article>
+
+		<iframe 
+				src="https://www.youtube.com/embed/4bcBifYGLgk?si=1kT7z3ZVKRo0SrjR" title="YouTube video" 
+				allow="accelerometer; 
+				autoplay; 
+				clipboard-write; 
+				encrypted-media; 
+				gyroscope; 
+				picture-in-picture; 
+				web-share" referrerpolicy="strict-origin-when-cross-origin" 
+				allowfullscreen>
+        	</iframe>
+
+			<footer>
+				<p>ⓒ2026 Eco Shopping - Todos os direitos reservados.</p>
+			</footer>
+
+		</body>
+
+</html>

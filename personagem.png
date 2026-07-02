@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang ="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Login</title>
+		<link rel="stylesheet" href="login.css">
+	</head>
+
+	<body>
+	
+		<header>
+			<h1>Eco Shopping</h1>
+		</header>
+
+		<nav>
+			<p><a href ="index.html">Início</a></p>
+			<p><a href ="login.html">Login</a></p>
+			<p><a href="contato.html">Fale Conosco</a></p>
+		</nav>
+		
+		<div>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<h1>Faça seu cadastro</h1>
+			<br>
+			<p>Nome:__________________</p>
+			<p>email:_________________</p>
+			<p>telefone:______________</p>
+			<br>
+			<button>FINALIZAR CADASTRO</button>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+
+		</div>
+		
+	</body>
+
+	<footer>
+		<p>ⓒ2026 Eco Shopping - Todos os direitos reservados.</p>
+	</footer>
+
+</html>
+
